@@ -49,11 +49,12 @@ Filebeat следует сконфигурировать для отправки
 ### Ответ
 
 скриншот `docker ps`:
+
 ![Screen1](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/2025-01-12_23-11-31.png)
 
 скриншот интерфейса kibana:
 
-![Screen2](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot from 2025-01-12 23-28-39.png)
+![Screen2](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot2025-01-12-23-28-39.png)
 
 ---
 
@@ -71,11 +72,11 @@ Filebeat следует сконфигурировать для отправки
 
 созданы несколько index-patterns:
 
-![Screen3](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot from 2025-01-12 23-14-18.png)
+![Screen3](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot2025-01-12-23-14-18.png)
 
 скрин просмотра логов:
 
-![Screen4](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot from 2025-01-12 23-14-38.png)
+![Screen4](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot2025-01-12-23-14-38.png)
 
 ---
 
