@@ -48,7 +48,7 @@ Filebeat следует сконфигурировать для отправки
 
 ### Ответ
 
-![alt text](img/2025-01-12_23-11-31.png)
+![Screen1](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/2025-01-12_23-11-31.png)
 
 ---
 
@@ -66,11 +66,11 @@ Filebeat следует сконфигурировать для отправки
 
 созданы несколько index-patterns:
 
-![alt text](<img/Screenshot from 2025-01-12 23-14-18.png>)
+![Screen2](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot from 2025-01-12 23-14-18.png>)
 
 скрин просмотра логов:
 
-![alt text](<img/Screenshot from 2025-01-12 23-14-38.png>)
+![Screen3](https://github.com/megasts/10-monitoring-04-elk/blob/main/img/Screenshot from 2025-01-12 23-14-38.png>)
 
 
 ---
